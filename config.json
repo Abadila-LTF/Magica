@@ -1,0 +1,23 @@
+{
+    "ENTER_P": [50, 250],
+    "SEARCH_P": [290, 135],
+    "SELECT_PATIENT_P": [300, 260],
+    "DOSSIER_P": [1860, 310],
+    "DOWNLOAD_PDF_P": [1860, 415],
+    "AUTRE_DOCUMENTS_P": [200, 470],
+    "VIEW_ALL_P": [350, 1010],
+    "TO_SELECT_ALL_P": [1310, 785],
+    "FINAL_P": [1340, 300],
+    "EXIT1_P": [1335, 230],
+    "EXIT2_P": [1890, 10],
+    "CHECK_1_POINT": [1340, 300],
+    "CHECK_1_POINT_COLOR": [130, 135, 144],
+    "CHECK_2_POINT": [1340, 300],
+    "CHECK_2_POINT_COLOR": [130, 135, 144],
+    "CHECK_2_POINT_MAX": 50,
+    "REDIS_HOST": "35.195.67.154",
+    "REDIS_PORT": 6379,
+    "REDIS_PASS": "UmVkaVNwQFNz",
+    "CHANNEL_NAME": "ish-MAGIKA-SCRAPING",
+    "SEARCH_DIR": "/Users/abadila/Desktop"
+}

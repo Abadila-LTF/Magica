@@ -1,0 +1,41 @@
+2023-11-02 19:40:45,708 - INFO: Pickle saved successfully to file
+2023-11-02 19:40:47,168 - INFO: Processing dossier: PT060100121
+2023-11-02 19:40:55,584 - INFO: Processing of dossier PT060100121 is complete - Ptient Without Documents
+2023-11-02 19:40:55,726 - INFO: Progress: 1/30658
+2023-11-02 19:40:55,872 - INFO: Processing dossier: PT170400057
+2023-11-02 19:41:04,236 - INFO: Processing of dossier PT170400057 is complete - Ptient Without Documents
+2023-11-02 19:41:04,392 - INFO: Progress: 2/30658
+2023-11-02 19:41:04,540 - INFO: Processing dossier: PT180900034
+2023-11-02 19:41:12,889 - INFO: Processing of dossier PT180900034 is complete - Ptient Without Documents
+2023-11-02 19:41:13,032 - INFO: Progress: 3/30658
+2023-11-02 19:41:13,175 - INFO: Processing dossier: PT060600009
+2023-11-02 19:41:21,547 - INFO: Processing of dossier PT060600009 is complete - Ptient Without Documents
+2023-11-02 19:41:21,687 - INFO: Progress: 4/30658
+2023-11-02 19:41:21,831 - INFO: Processing dossier: PT070800001
+2023-11-02 19:41:30,245 - INFO: Processing of dossier PT070800001 is complete - Ptient Without Documents
+2023-11-02 19:41:30,392 - INFO: Progress: 5/30658
+2023-11-02 19:41:30,534 - INFO: Processing dossier: PT120101064
+2023-11-02 19:41:38,946 - INFO: Processing of dossier PT120101064 is complete - Ptient Without Documents
+2023-11-02 19:41:39,083 - INFO: Progress: 6/30658
+2023-11-02 19:41:39,229 - INFO: Processing dossier: PT080100053
+2023-11-02 19:41:47,662 - INFO: Processing of dossier PT080100053 is complete - Ptient Without Documents
+2023-11-02 19:41:47,807 - INFO: Progress: 7/30658
+2023-11-02 19:41:47,957 - INFO: Processing dossier: PT191000002
+2023-11-02 19:41:56,360 - INFO: Processing of dossier PT191000002 is complete - Ptient Without Documents
+2023-11-02 19:41:56,508 - INFO: Progress: 8/30658
+2023-11-02 19:41:56,653 - INFO: Processing dossier: PT221000034
+2023-11-02 19:42:05,018 - INFO: Processing of dossier PT221000034 is complete - Ptient Without Documents
+2023-11-02 19:42:05,161 - INFO: Progress: 9/30658
+2023-11-02 19:42:05,304 - INFO: Processing dossier: PT100100981
+2023-11-02 19:42:13,661 - INFO: Processing of dossier PT100100981 is complete - Ptient Without Documents
+2023-11-02 19:42:13,811 - INFO: Progress: 10/30658
+2023-11-02 19:42:13,953 - INFO: Processing dossier: PT100100510
+2023-11-02 19:42:22,314 - INFO: Processing of dossier PT100100510 is complete - Ptient Without Documents
+2023-11-02 19:42:22,463 - INFO: Progress: 11/30658
+2023-11-02 19:42:22,597 - INFO: Processing dossier: PT110101195
+2023-11-02 19:42:30,969 - INFO: Processing of dossier PT110101195 is complete - Ptient Without Documents
+2023-11-02 19:42:31,120 - INFO: Progress: 12/30658
+2023-11-02 19:42:31,264 - INFO: Processing dossier: PT210800128
+2023-11-02 19:42:39,698 - INFO: Processing of dossier PT210800128 is complete - Ptient Without Documents
+2023-11-02 19:42:39,841 - INFO: Progress: 13/30658
+2023-11-02 19:42:39,983 - INFO: Processing dossier: PT110101388
